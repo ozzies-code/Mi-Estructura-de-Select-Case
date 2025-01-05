@@ -1,0 +1,12 @@
+C:\Users\oswal\source\repos\Mi Estructura Select Case\bin\Debug\Mi Estructura Select Case.exe.config
+C:\Users\oswal\source\repos\Mi Estructura Select Case\bin\Debug\Mi Estructura Select Case.exe
+C:\Users\oswal\source\repos\Mi Estructura Select Case\bin\Debug\Mi Estructura Select Case.pdb
+C:\Users\oswal\source\repos\Mi Estructura Select Case\bin\Debug\Mi Estructura Select Case.xml
+C:\Users\oswal\source\repos\Mi Estructura Select Case\obj\Debug\Mi Estructura Select Case.vbproj.AssemblyReference.cache
+C:\Users\oswal\source\repos\Mi Estructura Select Case\obj\Debug\Mi_Estructura_Select_Case.Form1.resources
+C:\Users\oswal\source\repos\Mi Estructura Select Case\obj\Debug\Mi_Estructura_Select_Case.Resources.resources
+C:\Users\oswal\source\repos\Mi Estructura Select Case\obj\Debug\Mi Estructura Select Case.vbproj.GenerateResource.cache
+C:\Users\oswal\source\repos\Mi Estructura Select Case\obj\Debug\Mi Estructura Select Case.vbproj.CoreCompileInputs.cache
+C:\Users\oswal\source\repos\Mi Estructura Select Case\obj\Debug\Mi Estructura Select Case.exe
+C:\Users\oswal\source\repos\Mi Estructura Select Case\obj\Debug\Mi Estructura Select Case.xml
+C:\Users\oswal\source\repos\Mi Estructura Select Case\obj\Debug\Mi Estructura Select Case.pdb
